@@ -1,0 +1,20 @@
+server:
+  port: 8085
+spring:
+  datasource:
+    url: jdbc:sqlserver://localhost:1433;databaseName=booking_db;encrypt=true;trustServerCertificate=true
+    username: sa
+    password: Aa@123456789
+    driver-class-name: com.microsoft.sqlserver.jdbc.SQLServerDriver
+
+  jpa:
+    hibernate:
+      ddl-auto: validate
+    show-sql: true
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.SQLServer2012Dialect
+
+  rabbitmq:
+    host: localhost
+    port: 5672
