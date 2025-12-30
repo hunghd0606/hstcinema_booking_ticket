@@ -18,6 +18,10 @@ public class ShowTime {
     @JoinColumn(name = "movie_id")
     private Movie movie;
 
+    @ManyToOne
+    @JoinColumn(name = "cinema_id", nullable = false)
+    private Cinema cinema;
+
     @Column(
             name = "start_time",
             nullable = false,

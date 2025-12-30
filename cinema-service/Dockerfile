@@ -1,0 +1,5 @@
+FROM eclipse-temurin:8-jdk-alpine
+WORKDIR /app
+COPY target/cinema-service-*.jar app.jar
+EXPOSE 8085
+ENTRYPOINT ["java","-jar","app.jar"]
