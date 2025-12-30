@@ -1,4 +1,4 @@
-# HỆ THỐNG ĐẶT VÉ XEM PHIM PHÂN TÁN
+# HỆ THỐNG ĐẶT VÉ XEM PHIM HST Cinema
 
 # Movie Ticket Booking – Microservices Architecture
 
@@ -48,14 +48,14 @@ Các service giao tiếp thông qua REST API và RabbitMQ.
 
 ## 4. Công nghệ sử dụng
 
-- Backend Spring Boot
-- ORM Spring Data JPA
-- Database SQL Server
-- Auth JWT
-- Message Queue RabbitMQ
-- Build Maven
-- Container Docker
-- Giao tiếp REST + Async Messaging
+- Backend: Spring Boot
+- ORM: Spring Data JPA
+- Database: SQL Server
+- Auth: JWT
+- Message: Queue RabbitMQ
+- Build: Maven
+- Container: Docker
+- Giao tiếp: REST + Async Messaging
 
 ---
 
