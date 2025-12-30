@@ -5,9 +5,9 @@
 ---
 
 **Sinh viên thực hiện:**  
-Hoàng Đức Hùng - B25CHHT026
-Nguyễn Hồng Sơn - B25CHHT049
-Vũ Thanh Thiên - B25CHHT055
+- Hoàng Đức Hùng - B25CHHT026
+- Nguyễn Hồng Sơn - B25CHHT049
+- Vũ Thanh Thiên - B25CHHT055
 
 ## 1. Giới thiệu (Overview)
 
