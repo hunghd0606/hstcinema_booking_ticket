@@ -1,13 +1,13 @@
-# HỆ THỐNG ĐẶT VÉ XEM PHIM PHÂN TÁN
+# HỆ THỐNG ĐẶT VÉ XEM PHIM HST Cinema
 
 # Movie Ticket Booking – Microservices Architecture
 
 ---
 
 **Sinh viên thực hiện:**  
-Hoàng Đức Hùng - B25CHHT026
-Nguyễn Hồng Sơn - B25CHHT049
-Vũ Thanh Thiên - B25CHHT055
+- Hoàng Đức Hùng - B25CHHT026
+- Nguyễn Hồng Sơn - B25CHHT049
+- Vũ Thanh Thiên - B25CHHT055
 
 ## 1. Giới thiệu (Overview)
 
@@ -48,14 +48,14 @@ Các service giao tiếp thông qua REST API và RabbitMQ.
 
 ## 4. Công nghệ sử dụng
 
-- Backend Spring Boot
-- ORM Spring Data JPA
-- Database SQL Server
-- Auth JWT
-- Message Queue RabbitMQ
-- Build Maven
-- Container Docker
-- Giao tiếp REST + Async Messaging
+- Backend: Spring Boot
+- ORM: Spring Data JPA
+- Database: SQL Server
+- Auth: JWT
+- Message: Queue RabbitMQ
+- Build: Maven
+- Container: Docker
+- Giao tiếp: REST + Async Messaging
 
 ---
 
